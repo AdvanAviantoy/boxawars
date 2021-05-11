@@ -1,0 +1,17 @@
+{
+    "_mqAn};U$W4T7:R)vp);": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAgAAAAAA8v//AAAA//+/y/zwAPC7u/u7/P/wv/+/u7v7/wC///+7u/sAAL///7u7+wDwv/+/u7v7/wDwu7v7u/z/AAD//7/L/PAAAAAA8v//AAAAAAAAIgIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ash Knight"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAgAAAAAA8v//AAAA//+/y/zwAPC7u/u7/P/wv/+/u7v7/wC///+7u/sAAL///7u7+wDwv/+/u7v7/wDwu7v7u/z/AAD//7/L/PAAAAAA8v//AAAAAAAAIgIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ash Knight0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
